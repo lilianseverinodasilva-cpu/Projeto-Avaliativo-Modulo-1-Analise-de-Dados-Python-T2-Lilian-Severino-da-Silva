@@ -23,6 +23,7 @@ As perguntas de negócio que precisavam ser respondidas foram:
 ### Pasta Principal:
 * **gitignore:** Arquivo para ignorar arquivos desnecessários no repositório.
 * **requirements.txt:** Resumo das bibliotecas e ferramentas necessárias para a execução do projeto.
+* **read.me**
 
 ### notebooks:
 * **3_analisar.py (ou Jupyter Notebook):** Script de análise de dados (Camada Gold) responsável pelas queries de negócio e plotagem dos gráficos.
