@@ -53,6 +53,7 @@ Nesta pasta encontram-se os arquivos de imagem dos gráficos plotados na etapa d
 * Já a questão 6 mostra que o destino mais frequente é o Distrito Federal, o que faz total sentido, já que é a capital do Brasil. DF é seguido por São Paulo e Rio de Janeiro, todas as 3 sendo capitais importantes para o país, em vários aspectos. É importante frisar, porém, que há uma diferença significativa entre o número de viagens ao DF (72297) em relação a SP (46392).
 * Quanto à pergunta 7, o órgão superior com mais gastos foi o Ministério da Justiça e Segurança Pública, o que ecoa o resultado da primeira questão: se há mais viagens, é lógico imaginar que o custo também é maior para este órgão.
 * Por último, para abarcar todos os critérios de avaliação, resolvi fazer um gráfico que analisasse o total de passagens emitidas (silver_passagem) por cada órgão superior (informação que se encontra na tabela silver_viagem). Foi utilizado um `inner join` para isso. No gráfico é possível perceber que o Ministério da Defesa é o que tem mais passagens emitidas, o que coindice com os gráficos da pergunta 1 e 7, apesar de, nestes casos, ter ficado em segundo lugar. Ainda assim, valor gasto pode estar diretamente relacionado à quantidade de passagens emitidas. Para haver certeza, só fazendo uma análise mais profunda neste quesito.
+<img width="1342" height="582" alt="Captura de tela 2026-07-16 210407" src="https://github.com/user-attachments/assets/ba5a539a-268a-44ca-8259-4158e87315f0" />
 
 ---
 
